@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">E-Station</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="conferma">Conferma</string>
+    <string name="logo_e_service">Logo E-Service</string>
+    <string name="sei_gi_registrato_accedi">Sei già registrato? <u>Accedi</u> </string>
+    <string name="non_sei_registrato_registrati">Non sei registrato? <u>Registrati</u> </string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="logout">Logout</string>
+    <string name="ricarica">Ricarica</string>
+    <string name="mappa">Mappa</string>
+    <string name="news">News</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="item_pub_date">Published: Fri 07 Sept 2012</string>
+    <string name="item_title">Item title</string>
+    <string name="login">Login</string>
+    <string name="aggiungi">Aggiungi</string>
+    <string name="assicurati_di_essere_nelle_prossimat_della_colonnina">Assicurati di essere nelle prossimatà della colonnina</string>
+    <string name="marca">Marca</string>
+    <string name="numero">Numero</string>
+    <string name="cerca">Cerca...</string>
+    <string name="numero_posti">Numero posti</string>
+    <string name="via">Via</string>
+    <string name="citt">Città</string>
+    <string name="stato">Stato</string>
+    <string name="rumenta">rumenta</string>
+    <string name="lente">lente</string>
+    <string name="ricerca_colonnina">Ricerca colonnina...</string>
+    <string name="ricerca_citt">Ricerca città...</string>
+    <string name="gps">Gps</string>
+    <string name="logotesla">logoTesla</string>
+    <string name="ricerca_per">Ricerca per...</string>
+    <string name="attenzione">attenzione</string>
+    <string name="seleziona_la_marca_della_colonnina">Seleziona la marca della colonnina:</string>
+    <string name="assicurati_di_essere_nelle_prossimit_della_colonnina">Assicurati di essere nelle prossimità della colonnina!</string>
+    <string name="seleziona_il_numero_di_posti_presenti">Seleziona il numero di posti presenti:</string>
+    <string name="automoto">automoto</string>
+    <string name="descrizione">descrizione</string>
+    <string name="data">data</string>
+    <string name="link">link<u>underline</u></string>
+    <string name="per_maggiori_informazioni_clicca_sul_link">Per maggiori informazioni clicca sul link:</string>
+    <string name="registrati">Registrati</string>
+    <string name="accedi">Accedi</string>
+    <string name="profilo">Profilo</string>
+    <string name="us">Username:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="next">Next</string>
+    <string name="inizia">Inizia</string>
+    <string name="reset">Reset</string>
+    <string name="elimina">Elimina</string>
+    <string name="elimina_account">elimina account</string>
+    <string name="reset_password">Reset password</string>
+
+    <string-array name="numeri">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="marche">
+        <item>Enel-X</item>
+        <item>Tesla</item>
+        <item>A2A</item>
+        <item>E-station</item>
+    </string-array>
+
+    <string-array name="ricerca_spinner">
+        <item>Marca</item>
+        <item>Città</item>
+    </string-array>
+</resources>

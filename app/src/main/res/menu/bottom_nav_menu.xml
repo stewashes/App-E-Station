@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_mappa"
+        android:icon="@drawable/ic_baseline_map_24px"
+        android:title="@string/mappa" />
+
+    <item
+        android:id="@+id/nav_recharge"
+        android:icon="@drawable/ic_baseline_ev_station_24px"
+        android:title="@string/ricarica" />
+
+    <item
+        android:id="@+id/nav_news"
+        android:icon="@drawable/ic_baseline_list_alt_24px"
+        android:title="@string/news" />
+
+</menu>

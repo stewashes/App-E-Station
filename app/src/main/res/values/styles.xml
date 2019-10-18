@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/GREEN</item>
+        <item name="colorPrimaryDark">@color/DARK_GREEN</item>
+        <item name="colorAccent">@color/RED</item>
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="StartActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/GREEN</item>
+        <item name="colorPrimaryDark">@color/DARK_GREEN</item>
+        <item name="colorAccent">@color/ORANGE_YELLOW</item>
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="Button" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/GREEN</item>
+        <item name="android:textColor">@color/WHITE_SMOKE</item>
+    </style>
+
+
+</resources>

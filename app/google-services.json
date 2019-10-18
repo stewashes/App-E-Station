@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50288546273",
+    "firebase_url": "https://estation-d286f.firebaseio.com",
+    "project_id": "estation-d286f",
+    "storage_bucket": "estation-d286f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50288546273:android:61b6b6fe3f8f5c37",
+        "android_client_info": {
+          "package_name": "com.example.e_station"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50288546273-gqp2tgvpa2fir00aa1uim3mn7hdk028l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_station",
+            "certificate_hash": "93a26db19d9744e45080681b733a80620d67731b"
+          }
+        },
+        {
+          "client_id": "50288546273-chkv4vcte1vt1c0c6qr48jpgbecjub7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtO-kxJMGimn4D0rUB9fLonkXWkSjkDnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50288546273-chkv4vcte1vt1c0c6qr48jpgbecjub7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
