@@ -54,7 +54,7 @@
             android:resource="@array/preloaded_fonts" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyALWWucEMh1UMk9Ah2NB-zco6_qBEsbxd4" />
+            android:value="APIKEYHERE" />
 
         <service
             android:name=".rss_f.NewsService"
